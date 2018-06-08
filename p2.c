@@ -28,6 +28,7 @@
 #include <string.h>
 #include <fcntl.h>
 #include "CHK.h"
+#include <errno.h>
 
 /* Definitions */
 #define MAXARGS 20
